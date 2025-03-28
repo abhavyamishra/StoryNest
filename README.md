@@ -1,7 +1,7 @@
-### StoryNest  | A Blog App Using MERN Stack
+# StoryNest  | A Blog App Using MERN Stack
 Welcome to StoryNest, a full-stack blogging platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app allows users to create, edit, and share their stories with the world. 🚀
 
-# Features
+### Features
  User Authentication (Signup/Login)
  Create, Edit, and Delete Blog Posts
  Rich Text Editor for Blogs 
@@ -10,7 +10,7 @@ Welcome to StoryNest, a full-stack blogging platform built using the MERN stack 
  Secure API with JWT Authentication 
  Responsive UI 
 
-# Tech Stack
+### Tech Stack
 Frontend: React.js, TailwindCSS
 
 Backend: Node.js, Express.js
